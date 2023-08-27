@@ -52,3 +52,20 @@
 "Disable QuitBox [UD]", //51
 "Water Aura [UD]", //52
 "Rock GameMode [LM] [UD]", //53
+"Rgb Snowballs [CS?] [UD]", //54
+"SnowBall Ground [UD]", //55
+"Fix Ground [UD]", //56
+"Mosa Settings [UD]",//57
+"Trin Settings [UD]",//58
+"Coke Settings [UD]",//59
+"Pik Settings [UD]", //60
+"Name = Hi [W?]", //61
+"Name = Pbbv [W?]", //62
+"Name = Watching [W?]", //63
+"Name = Run [W?]", //64
+"Name = Bob [W?]", //65
+"Ghost Monke V2 [D]", //66
+"Lag All V2 [D?]", //67
+"No Tag On Join", //68
+"Upside Down Head [W?]", //69
+"JoyStick Fly [W?]", //70
